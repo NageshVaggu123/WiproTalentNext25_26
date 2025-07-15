@@ -1,8 +1,7 @@
-import java.util.Scanner;
-
 /*
  * Q.1) Write a program to initialize an integer array and print the sum and average of the array
  */
+import java.util.Scanner;
 public class Solution1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
